@@ -17,10 +17,10 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Firmware',
-      shortName: 'Firmware',
-      description: 'Firmware premium',
-      url: '/search/label/Firmware?utm_source=homescreen',
+      name: 'Cloud Support Donwload',
+      shortName: 'Cloud ASC',
+      description: 'File Support premium',
+      url: '/p/asc-files-support-sync.html?utm_source=homescreen',
     },
   ],
   pwa: {
