@@ -17,7 +17,7 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Cloud Support Donwload',
+      name: 'Cloud Support Download',
       shortName: 'Cloud ASC',
       description: 'File Support premium',
       url: '/p/asc-files-support-sync.html?utm_source=homescreen',
