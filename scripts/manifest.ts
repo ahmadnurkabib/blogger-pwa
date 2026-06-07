@@ -16,7 +16,7 @@ export const getManifest = ({
   themeColor = backgroundColor as string | undefined,
   serviceWorker = undefined as string | undefined,
   iconsPath = './icons',
-  screenshotsPath = './screenshots',
+  screenshotsPath = '',
   screenshots = [] as {
     src: string;
     type?: string;
