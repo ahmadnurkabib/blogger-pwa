@@ -160,7 +160,7 @@ const commonManifestOptions: Parameters<typeof getManifest>[0] = {
   scope: options.scope,
   startUrl: options.startUrl,
   iconsPath: './icons',
-  screenshotsPath: './screenshots',
+  screenshotsPath: '',
   screenshots: screenshots.map(({ type, filename }) => ({
     formFactor: type,
     src: filename,
